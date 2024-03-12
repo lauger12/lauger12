@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like sharks :)
 
 <!---
 lauger12/lauger12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
